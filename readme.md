@@ -1,7 +1,7 @@
 **¿Como usar?** 
 
-1º_ clone o descarge el repositorio
-2º_ cre en la carpeta raiz del proyecto el siguiente archivo `.env`
+1º_ clone o descarge el repositorio <br>
+2º_ cre en la carpeta raiz del proyecto el siguiente archivo `.env`<br>
 3º_ añade en este archivo la siguiente sentencia de copdigo
 
     <sup> URI = "conexion a su base de datos de mongo db" </sub)
